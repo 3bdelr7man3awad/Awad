@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/zV4Lx7S.png" alt="Welcome to My ML Portfolio" width="100%" />
-</p>
-
-# Machine Learning Portfolio
+# Machine Learning engineer
 
 Hi, I'm Abdulrahman Awad —  passionate Machine Learning Engineer. This repository is my personal portfolio, showcasing projects, skills, and tools I've worked with on my journey into AI and ML.
 
