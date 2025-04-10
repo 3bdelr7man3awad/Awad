@@ -1,6 +1,6 @@
 # Machine Learning Portfolio
 
-Hi, I'm Abdulrahman Awad — a second-year Information Technology student and passionate Machine Learning Engineer. This repository is my personal portfolio, showcasing projects, skills, and tools I've worked with on my journey into AI and ML.
+Hi, I'm Abdulrahman Awad — passionate Machine Learning Engineer. This repository is my personal portfolio, showcasing projects, skills, and tools I've worked with on my journey into AI and ML.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![ML](https://img.shields.io/badge/Machine%20Learning-End%20to%20End-green.svg)
